@@ -36,7 +36,7 @@ Integrates accelerometer for unique interactive features
 
 🚀 Installation
 Clone the repository:
-https://github.com/Miles-C-M/FinalProject
+https://github.com/Miles-C-M/MusicHub
 
 Open the project in Android Studio.
 
